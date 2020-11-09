@@ -1,2 +1,3 @@
 # Hello-Word
-First repository
+Make and Commit changes
+Staar at here!
